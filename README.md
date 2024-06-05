@@ -1,5 +1,6 @@
 # blender-donut
  the ultimate donut creation
+ pls ignore the several incremented save files 
 
 day 1: Created donut shape and icing
 
