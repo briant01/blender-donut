@@ -11,3 +11,5 @@ day 3: Added color and textured countertop and donut
 day 4: Created sprinkles for donut with geometry nodes
 
 day 5: created long sprinkles and distributed on donut
+
+day 6 (finale): added randomized colors and slight texture on sprinkles, created final render
